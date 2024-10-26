@@ -1,4 +1,4 @@
-﻿# StudyBuddyAI
+﻿# StudyGoAI
 
 This is a web application that generates and grades quizzes based on selected chapters/topics from a course curriculum.
 
@@ -30,7 +30,7 @@ To get a local copy of this project up and running, follow these steps:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/arushib2007/Course-Curriculum-Generator.git
+git clone https://github.com/roshnib2007/Course-Curriculum-Generator.git
 cd Course-Curriculum-Generator
 ```
 
